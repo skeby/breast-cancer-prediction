@@ -1,4 +1,4 @@
-const apiUrl = "http://127.0.0.1:5000";
+const apiUrl = "https://breast-cancer-prediction-jzta.onrender.com";
 
 // Top Breast cancer dataset features
 const featureNames = [
